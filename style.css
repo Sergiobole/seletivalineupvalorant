@@ -1,0 +1,114 @@
+/* menu principal supeior  */
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+    border-style: ridge;
+    border-color: red;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+ 
+    /*body*/
+
+    body{
+        background-color: rgba(17, 17, 17, 0.937);
+        color: antiquewhite;
+    }
+
+    /*header*/
+    header{
+        background-color: #0F1821;
+    }
+    /* >>  banner  << */
+    header img{
+        width: 720px;
+        margin-inline-start:425px;
+    }
+
+    /*main*/
+   main{
+    background-color: #111;
+    margin-left: 525px;
+    text-align: center;
+    max-height: 2500px;
+    max-width: 500px;
+    border-radius: 30px;
+
+   }
+
+    /* >>  explicação  << */
+
+   .descricao p{
+       font-family: arial;
+        margin: 2%;
+        color: aliceblue;
+        font-size: 14px;
+        font-style: italic;
+    }
+
+.requisitosVagas{}
+
+.requisitosVagas h4{
+
+  color: aliceblue;
+
+}
+
+    .vagas h4{
+        margin-left: 10px;
+    
+    }
+    .vagas img{
+        padding-left: 6px ;
+        position: initial;
+        width: 100px;
+        border-radius: 50px;
+        margin: 5px;
+    }
+    .vagas a{
+      color: transparent;
+    }
+
+    /* >>  explicação  << */
+    /*footer*/
+    footer{
+
+    }
+    .footer{
+
+    }
+    footer a{
+        color: aliceblue;
+
+    }
+    footer a:hover{
+        color: lemonchiffon;
+
+    }
+
+
+/* >>  explicação  << */
+/* >>  explicação  << */
+/* >>  explicação  << */
+/* >>  explicação  << */
+/* >>  explicação  << */
