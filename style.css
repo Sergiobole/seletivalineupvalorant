@@ -112,3 +112,123 @@ ul {
 /* >>  explicação  << */
 /* >>  explicação  << */
 /* >>  explicação  << */
+/*  mobile option */
+
+/* menu principal supeior  */
+@media only screen and (max-width: 700px) {
+
+
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+
+      border-style: ridge;
+      border-color: red;
+    }
+
+    li {
+      margin-left: 30px;
+      float: left;
+
+    }
+
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 10px 16px;
+      text-decoration: none;
+    }
+
+    li a:hover {
+      background-color: #111;
+    }
+
+      /*body*/
+
+      body{
+          background-color: rgba(17, 17, 17, 0.937);
+          color: antiquewhite;
+    }
+
+      /*header*/
+
+      /* >>  banner  << */
+       header img{
+        margin: 0;
+        max-width: 450px;
+      }
+
+      /*main*/
+     main{
+      background-color: #111;
+      margin-left:80px;
+      text-align: center;
+      height:900px;
+      width: 350px;
+      border-radius: 15px;
+
+     }
+
+      /* >>  explicação  << */
+      section .secao-principal{
+        max-width: 400px;
+
+      }
+
+     .descricao p{
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          margin: 2%;
+          color: aliceblue;
+          font-size: 13px;
+      }
+
+  .requisitosVagas{}
+
+  .requisitosVagas h4{
+
+    color: aliceblue;
+
+  }
+
+      .vagas h4{
+          margin-left: 10px;
+
+      }
+      .vagas img{
+          padding-left: 6px ;
+          width: 50px;
+          border-radius: 50px;
+          margin: 3px;
+      }
+      .vagas a{
+
+      }
+  
+      /* >>  explicação  << */
+      /*footer*/
+      footer{
+  
+      }
+      .footer{
+  
+      }
+      footer a{
+          color: aliceblue;
+  
+      }
+      footer a:hover{
+          color: lemonchiffon;
+  
+      }
+  
+  }
+  /* >>  explicação  << */
+  /* >>  explicação  << */
+  /* >>  explicação  << */
+  /* >>  explicação  << */
+  /* >>  explicação  << */
+  
